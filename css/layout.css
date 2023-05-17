@@ -87,7 +87,7 @@ body {
 
 .projects-container {
   display: flex;
-  gap: 34px 100px;
+  gap: 100px 16px;
   flex-wrap: wrap;
 }
 
