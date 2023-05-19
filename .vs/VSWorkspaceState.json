@@ -1,7 +1,14 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets",
+    "\\assets\\icons",
+    "\\assets\\images",
+    "\\assets\\pdf",
+    "\\css",
+    "\\js",
+    "\\project-pages"
   ],
-  "SelectedNode": "\\index.html",
+  "SelectedNode": "\\assets\\pdf\\intizar_muhamediyev_resume.pdf",
   "PreviewInSolutionExplorer": false
 }
